@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vgd3NCfM71mtUC/vBJCIF86zySaQ2tH4ZfFELw8tJ5AExT3JpklilUwV9Sdl7f+KOt1YUGLBmJLb3tkknC5iQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego.p.campos\\Desktop\\estudos\\C#\\CapturarIP\\CapturarIP\\CapturarIP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego.p.campos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

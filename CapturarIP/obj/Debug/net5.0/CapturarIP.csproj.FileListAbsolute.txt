@@ -1,0 +1,16 @@
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\bin\Debug\net5.0\CapturarIP.exe
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\bin\Debug\net5.0\CapturarIP.deps.json
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\bin\Debug\net5.0\CapturarIP.runtimeconfig.json
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\bin\Debug\net5.0\CapturarIP.runtimeconfig.dev.json
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\bin\Debug\net5.0\CapturarIP.dll
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\bin\Debug\net5.0\CapturarIP.pdb
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\obj\Debug\net5.0\CapturarIP.csproj.AssemblyReference.cache
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\obj\Debug\net5.0\CapturarIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\obj\Debug\net5.0\CapturarIP.AssemblyInfoInputs.cache
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\obj\Debug\net5.0\CapturarIP.AssemblyInfo.cs
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\obj\Debug\net5.0\CapturarIP.csproj.CoreCompileInputs.cache
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\obj\Debug\net5.0\CapturarIP.dll
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\obj\Debug\net5.0\refint\CapturarIP.dll
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\obj\Debug\net5.0\CapturarIP.pdb
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\obj\Debug\net5.0\CapturarIP.genruntimeconfig.cache
+C:\Users\diego.p.campos\Desktop\estudos\C#\CapturarIP\CapturarIP\obj\Debug\net5.0\ref\CapturarIP.dll
